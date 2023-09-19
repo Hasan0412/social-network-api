@@ -5,8 +5,8 @@ const mongoose = require("mongoose");
 // Create an Express.js application instance
 const app = express();
 
-// Set the port for the server to listen on, using the environment variable or default to 3001
-const PORT = process.env.PORT || 3001;
+// Set the port for the server to listen on, using the environment variable or default to 3004
+const PORT = process.env.PORT || 3004;
 
 // Import your API routes 
 const routes = require("./routes");
