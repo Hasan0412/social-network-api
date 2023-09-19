@@ -35,7 +35,7 @@ The challenge emphasizes proper API design, data modeling, and efficient use of 
 
 #### DELETE Request:
 
-![screenshot](/Screenshots/get.png)
+![screenshot](/Screenshots/delete.png)
 
 ## Link
 
