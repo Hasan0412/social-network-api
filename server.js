@@ -1,6 +1,6 @@
 // Import required packages
-const express = require('express');
-const mongoose = require('mongoose');
+const express = require("express");
+const mongoose = require("mongoose");
 
 // Create an Express.js application instance
 const app = express();
@@ -9,7 +9,7 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 // Import your API routes 
-const routes = require('./routes');
+const routes = require("./routes");
 
 // Middleware for parsing JSON and URL-encoded data
 app.use(express.json());
