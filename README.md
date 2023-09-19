@@ -21,6 +21,22 @@ The challenge emphasizes proper API design, data modeling, and efficient use of 
 
 ## Screenshots
 
+#### GET Request:
+
+![screenshot](/Screenshots//get.png)
+
+#### POST Request:
+
+![screenshot](/Screenshots/post.png)
+
+#### PUT Request:
+
+![screenshot](/Screenshots/put.png)
+
+#### DELETE Request:
+
+![screenshot](/Screenshots/get.png)
+
 ## Link
 
 [Walkthrough]
